@@ -1,1 +1,1 @@
-userbot: python -m strings.py
+wroker: python -m psm
