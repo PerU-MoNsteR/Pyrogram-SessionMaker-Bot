@@ -1,1 +1,1 @@
-userbot: python -m psm
+userbot: python -m psm.py
